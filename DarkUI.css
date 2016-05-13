@@ -162,8 +162,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: rgba(255,255,255,0.75);
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color: #11C0F6;
+  border-color: #11C0F6;
 }
 .btn-success:focus,
 .btn-success.focus {
@@ -173,7 +173,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success:hover {
   color: rgba(255,255,255,0.75);
-  background-color: #4caf50;
+  background-color: #11C0F6;
   border-color: #47a44b;
 }
 .btn-success:active,
@@ -214,11 +214,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color: #11C0F6;
+  border-color: #11C0F6;
 }
 .btn-success .badge {
-  color: #4caf50;
+  color: #11C0F6;
   background-color: #ffffff;
 }
 .btn-info {
@@ -423,7 +423,7 @@ fieldset[disabled] .btn-danger.active {
 }
 .input-group .btn-success {
   background: transparent !important;
-  color: #4caf50;
+  color: #11C0F6;
   font-weight: 700;
   font-size: 16px;
   text-transform: uppercase;
@@ -657,8 +657,8 @@ input[type="checkbox"]:disabled:checked:after,
 .has-success .form-control,
 .has-success input:not([type=checkbox]):focus,
 .has-success .form-control:focus {
-  -webkit-box-shadow: inset 0 -2px 0 #4caf50;
-  box-shadow: inset 0 -2px 0 #4caf50;
+  -webkit-box-shadow: inset 0 -2px 0 #11C0F6;
+  box-shadow: inset 0 -2px 0 #11C0F6;
 }
 .radio label,
 .radio-inline label,
